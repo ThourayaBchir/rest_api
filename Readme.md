@@ -37,6 +37,8 @@ tox
 ### Some examples to query
 
 ```
+curl "http://localhost:5000/api/v1.0/accounts?page=1&limit=3"   -X GET -v
+
 curl "http://localhost:5000/api/v1.0/accounts/1/malls/1/units"  -d "name=unit_name&mall_id=1" -X POST -v
 
 curl "http://localhost:5000/api/v1.0/accounts"   -X GET -v
