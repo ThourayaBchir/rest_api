@@ -10,8 +10,8 @@ Where each mall is linked to a an account and each unit is linked to an account.
 ### To set up and launch the app
 
 ```shell
-git clone ...
-cd ...
+git clone git@github.com:ThourayaBchir/rest_api.git
+cd rest_api
 
 python3 -m venv api_venv 
 source api_venv/bin/activate
