@@ -5,7 +5,7 @@ REST api to access the resources:
 - Malls
 - Units
 
-Where each mall is linked to a an account and each unit iis linked to an account.
+Where each mall is linked to a an account and each unit is linked to an account.
 
 ### To set up and launch the app
 
