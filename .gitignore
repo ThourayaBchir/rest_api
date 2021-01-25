@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+.tox/
+api_venv/
+rest_api.egg-info/
+.coverage
